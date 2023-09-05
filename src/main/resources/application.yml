@@ -1,0 +1,7 @@
+telegram:
+  kun-kun-receive-bot:
+    token: 第一个token
+    username: 坤坤接收
+  kun-kun-send-bot:
+    token: 第二个token
+    username: 坤坤发送
